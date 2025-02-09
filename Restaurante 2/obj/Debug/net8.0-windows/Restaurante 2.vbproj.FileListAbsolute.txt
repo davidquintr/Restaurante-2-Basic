@@ -1,0 +1,17 @@
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\obj\Debug\net8.0-windows\Restaurante_2.Form1.resources
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\obj\Debug\net8.0-windows\Restaurante_2.Resources.resources
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\obj\Debug\net8.0-windows\Restaurante 2.vbproj.GenerateResource.cache
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\obj\Debug\net8.0-windows\Restaurante 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\obj\Debug\net8.0-windows\Restaurante 2.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\obj\Debug\net8.0-windows\Restaurante 2.AssemblyInfo.vb
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\obj\Debug\net8.0-windows\Restaurante 2.vbproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\bin\Debug\net8.0-windows\Restaurante 2.exe
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\bin\Debug\net8.0-windows\Restaurante 2.deps.json
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\bin\Debug\net8.0-windows\Restaurante 2.runtimeconfig.json
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\bin\Debug\net8.0-windows\Restaurante 2.dll
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\bin\Debug\net8.0-windows\Restaurante 2.pdb
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\obj\Debug\net8.0-windows\Restaurante 2.dll
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\obj\Debug\net8.0-windows\refint\Restaurante 2.dll
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\obj\Debug\net8.0-windows\Restaurante 2.pdb
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\obj\Debug\net8.0-windows\Restaurante 2.genruntimeconfig.cache
+C:\Users\David\source\repos\Restaurante 2\Restaurante 2\obj\Debug\net8.0-windows\ref\Restaurante 2.dll
