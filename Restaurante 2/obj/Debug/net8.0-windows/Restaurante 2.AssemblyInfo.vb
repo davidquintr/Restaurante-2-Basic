@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Restaurante 2"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69e96f318b5abaf203608fd77a67cd08c61551ff"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Restaurante 2"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Restaurante 2"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
